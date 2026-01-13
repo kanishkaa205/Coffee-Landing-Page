@@ -8,8 +8,8 @@ This is a simple coffee shop landing page created as a beginner web development 
 - Beginner-level project
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## What I Learned
 - Page structure using HTML
