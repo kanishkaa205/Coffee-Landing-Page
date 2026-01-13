@@ -16,7 +16,4 @@ This is a simple coffee shop landing page created as a beginner web development 
 - Styling with CSS
 - Adding images and layout alignment
 
-## 🔹 Project Status
-This project is created for learning and practice purposes.
-
 Thank you for checking out my project!
